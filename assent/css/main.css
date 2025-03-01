@@ -776,8 +776,9 @@ img {
 }
 
 .footer_discription {
-    font-size: 1.7rem;
-    font-weight: 500;
+    font-size: 1.6rem;
+    font-weight: 400;
+    line-height: 1.4;
     color: #000331;
     margin: 2.5rem 0;
     max-width: 520px;
